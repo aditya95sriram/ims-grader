@@ -24,6 +24,6 @@ This is an independent project, and is not affiliated with the IMS or IIT Gandhi
 
 ## Past Versions
 
-- [v5.2](https://bookmarkify.it/5552)
+- [v5.2](https://bookmarkify.it/5554)
 - [v5.1](https://bookmarkify.it/5548)
 - [v4.1](https://bookmarkify.it/4786)
