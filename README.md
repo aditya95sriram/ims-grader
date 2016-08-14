@@ -2,7 +2,7 @@
 
 ## Bookmarklet
 
-Grab the latest bookmarklet from [here](https://bookmarkify.it/5551)
+Grab the latest bookmarklet from [here](https://bookmarkify.it/5554)
 
 Drag the link from the site given above to your bookmarks bar to save this bookmarklet. If you don't see your bookmarks bar, try <kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>B</kbd>. Once on the IMS Student Grade Details page, click the bookmarklet you just saved, and Voila!, a shiny new version of IMS appears (okay it's not as glorious as I make it sound, but atleast it's much more functional eh).
 
